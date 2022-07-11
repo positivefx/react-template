@@ -1,5 +1,5 @@
 {
-  "name": "startertemplate",
+  "name": "react-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/positivefx/starterTemplate.git"
+    "url": "git+https://github.com/positivefx/react-template.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/positivefx/starterTemplate/issues"
+    "url": "https://github.com/positivefx/react-template/issues"
   },
-  "homepage": "https://github.com/positivefx/starterTemplate#readme",
+  "homepage": "https://github.com/positivefx/react-template#readme",
   "devDependencies": {
     "@babel/cli": "^7.17.10",
     "@babel/core": "^7.17.10",
